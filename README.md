@@ -352,15 +352,15 @@ The processed retail data was connected from Snowflake to Power BI.
 
 
 
-\## Dashboard Preview
+## Dashboard Preview
 
 
 
-!\[Smart Retail Analytics Dashboard](Documents/dashboard\_preview.png)
+![Smart Retail Analytics Dashboard](Documents/dashboard_preview.png)
 
 
 
-\## Repository Structure
+## Repository Structure
 
 
 
