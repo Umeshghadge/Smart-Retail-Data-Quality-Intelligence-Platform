@@ -427,7 +427,7 @@ Smart\_Retail\_Data\_Quality\_Intelligence\_Platform/
 
 └── .gitignore
 
-'''
+```
 
 
 
