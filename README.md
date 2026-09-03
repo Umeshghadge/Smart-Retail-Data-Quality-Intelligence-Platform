@@ -97,19 +97,20 @@ Power BI Dashboard
 \### Dataset Source
 
 
-
-This project uses the \*\*Online Retail II\*\* dataset from the \*\*UCI Machine Learning Repository\*\*.
-
-
+This project uses the **Online Retail II** dataset from the **UCI Machine Learning Repository**.
 
 Source:  
-
 https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
+Creator: Daqing Chen
 
+Citation:  
+Chen, D. (2012). Online Retail II [Dataset].  
+UCI Machine Learning Repository.
 
-The dataset is used for learning, analysis and portfolio development.
+DOI: https://doi.org/10.24432/C5CG6D
 
+License: CC BY 4.0 
 
 
 \### Dataset Details
@@ -358,6 +359,11 @@ The processed retail data was connected from Snowflake to Power BI.
 
 ![Smart Retail Analytics Dashboard](Documents/dashboard_preview.png)
 
+## Author
+
+**Umesh Ghadge**
+
+Personal data engineering and analytics portfolio project.
 
 
 ## Repository Structure
@@ -406,26 +412,22 @@ Smart\_Retail\_Data\_Quality\_Intelligence\_Platform/
 
 ├── Power bi/
 
-│   └── Smart\_Retail\_Analytics.pbix
+│   └── Smart\_Retail_Analytics.pbix
 
 │
 
 ├── Documents/
 
-│   ├── project\_summary.md
+│   ├── project_summary.md
 
-│   └── dashboard\_preview.png
+│   └── dashboard_preview.png
 
-│
-
-├── Artificial Intelligence/
-
-│
 
 ├── README.md
 
 └── .gitignore
 
+'''
 
 
 
@@ -433,8 +435,7 @@ Smart\_Retail\_Data\_Quality\_Intelligence\_Platform/
 
 
 
-
-Project Outcome
+## Project Outcome
 
 
 
