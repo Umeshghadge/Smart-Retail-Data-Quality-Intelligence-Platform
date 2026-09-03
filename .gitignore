@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# Raw and processed data files
+Data/raw/
+Data/processed/*.csv
+
+# Power BI temporary/backup files
+*.tmp
+*.bak
+
+# Environment and secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
